@@ -20,9 +20,7 @@ This course follows a hands-on, example-driven approach to show and explain all 
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 This course is designed for those who have experience with current-generation JavaScript (ES5) and know the basics of the language, everyone interested in the new features and additions ES6 brings to JavaScript, and those who wants to take a follow-up to JavaScript Bootcamp course
-### Technical Requirements
-This course has the following software requirements:<br/>
-   
+  
 
 ## Related Products
 * [Accelerated JavaScript Training [Video]](https://www.packtpub.com/application-development/learn-computer-vision-python-and-opencv-video?utm_source=github&utm_medium=repository&utm_campaign=9781788293846)
